@@ -1,5 +1,5 @@
-Angular SPA skeleton
-====================
+GitHub Frontend on AngularJS
+============================
 
 [![Dependency Status](https://www.versioneye.com/user/projects/54cca597de7924f81a000201/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54cca597de7924f81a000201)
 [![Author](http://img.shields.io/badge/author-@ovr-blue.svg?style=flat-square)](https://twitter.com/ovrweb)
